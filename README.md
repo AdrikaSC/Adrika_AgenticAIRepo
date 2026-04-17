@@ -35,4 +35,4 @@ Paste (or upload) a rental agreement and get:
 
 ## Demo Video
 
-https://github.com/AdrikaSC/Adrika_AgenticAIRepo/upload/main
+https://youtu.be/xxX3AyVOIk4
